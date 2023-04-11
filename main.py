@@ -72,7 +72,7 @@ while True:
             engine.say(
                 "Welcome to the latest episode of The Modern Farm Business, where we provide practical advice and instruction for farmers looking to improve their crop production and management. In today's episode, we're going to focus on how to plant corn seeds.")
             engine.say(
-            toast(corn['1'], 'Sounds', 0)
+            
                
             engine.say(corn['1'])
             engine.runAndWait()
